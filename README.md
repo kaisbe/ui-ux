@@ -62,11 +62,8 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * [Jaco](https://www.getjaco.com/)
 
 ### Standards and Guidelines
-* Desktop: [Microsoft Guidelines](https://docs.microsoft.com/en-us/windows/win32/uxguide/guidelines)
-* Mobile & Embedded: [Apple Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-* Web:
-    - [VMWare Guidelines (Clarity Design System)](https://clarity.design/documentation)
-    - [Microsoft Guidelines (Office UI Fabric Core)](https://developer.microsoft.com/en-us/fabric#/controls/web)
+* Desktop and Mobile: [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+* Web: [IBM Carbon Design System Patterns](https://carbondesignsystem.com/patterns/overview)
 
 ### Prototyping Tools
 * Moqups: [Website](https://moqups.com/)
@@ -136,11 +133,8 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Bulma: [Website](http://bulma.io/)
 
 ### Front-end Web Frameworks
-#### Rust
-* Yew: [GitHub](https://github.com/DenisKolodin/yew)
-#### Typescript
-* Angular: [GitHub](https://github.com/angular/angular) | [Website](https://angular.io/)
 #### Javascript
+* React.js: [Website](https://reactjs.org/)
 * Angular.js: [GitHub](https://github.com/angular/angular.js) | [Website](https://angularjs.org/)
 * Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
 * Vue.js: [GitHub](https://github.com/vuejs/vue) | [Website](https://vuejs.org/)
@@ -148,6 +142,10 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Cycle.js: [Website](https://cycle.js.org/)
 #### Elm
 * Elm-UI: [GitHub](https://github.com/gdotdesign/elm-ui) | [Website](https://elm-ui.netlify.com/)
+#### Rust
+* Yew: [GitHub](https://github.com/DenisKolodin/yew)
+#### Typescript
+* Angular: [GitHub](https://github.com/angular/angular) | [Website](https://angular.io/)
 
 ### Javascript UI Libraries
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
@@ -215,10 +213,11 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * AmmyUI: [GitHub](https://github.com/AmmyUI/AmmyUI)
 
 ### Testing Frameworks
-* QUnit: [Website](https://qunitjs.com/)
-* Jasmine: [Website](http://jasmine.github.io/)
+* Jest: [Website](https://jestjs.io)
 * Mocha: [Website](https://mochajs.org/)
+* Jasmine: [Website](http://jasmine.github.io/)
 * Wallaby.js: [Website](https://wallabyjs.com/)
+* QUnit: [Website](https://qunitjs.com/)
 
 ### Miscellaneous Frameworks
 * Normalize.css: [GitHub](https://github.com/necolas/normalize.css)
